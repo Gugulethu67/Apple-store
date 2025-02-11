@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    name: "iPhone 15 Pro Max",
+    name: "iPhone 15 Pro Max      ",
     category: "iPhone",
     price: 21430.50, // 1099 USD
     rating: 4.8,
@@ -41,7 +41,7 @@ export const products = [
 },
 {
     id: 3,
-    name: "iPad Air (M2)",
+    name: "iPad Air (M2)       ",
     price: 13630.50, // 699 USD
     category: "iPad",
     rating: 4.6,
@@ -61,7 +61,7 @@ export const products = [
 },
 {
     id: 4,
-    name: "Apple Watch Ultra 2",
+    name: "Apple Watch Ultra 2 ",
     price: 15580.50, // 799 USD
     category: "Apple Watch",
     rating: 4.9,
@@ -81,7 +81,7 @@ export const products = [
 },
 {
     id: 5,
-    name: "iPad Pro 12.9-inch",
+    name: "iPad Pro 12.9-inch   ",
     price: 21430.50, // 1099 USD
     category: "iPad",
     rating: 4.8,
@@ -141,7 +141,7 @@ export const products = [
   },
   {
       id: 8,
-      name: "Mac mini (M2)",
+      name: "Mac mini (M2)          ",
       price: 11680.50, // 599 USD
       category: "Mac",
       rating: 4.7,
@@ -161,7 +161,7 @@ export const products = [
   },
   {
       id: 9,
-      name: "iPhone 15",
+      name: "iPhone 15             ",
       price: 15580.50, // 799 USD
       category: "iPhone",
       rating: 4.7,
@@ -181,7 +181,7 @@ export const products = [
   },
   {
       id: 10,
-      name: "MacBook Air 15-inch",
+      name: "MacBook Air 15-inch     ",
       price: 25330.50, // 1299 USD
       category: "MacBook",
       rating: 4.8,
@@ -201,7 +201,7 @@ export const products = [
   },
   {
       id: 11,
-      name: "iPad mini",
+      name: "iPad mini              ",
       price: 9730.50, // 499 USD
       category: "iPad",
       rating: 4.6,
@@ -221,7 +221,7 @@ export const products = [
   },
   {
       id: 12,
-      name: "AirPods Max",
+      name: "AirPods Max            ",
       price: 10705.50, // 549 USD
       category: "Accessories",
       rating: 4.6,
@@ -241,7 +241,7 @@ export const products = [
   },
   {
       id: 13,
-      name: "Mac Studio (M2 Ultra)",
+      name: "Mac Studio (M2 Ultra)  ",
       price: 77980.50, // 3999 USD
       category: "Mac",
       rating: 4.9,
@@ -261,7 +261,7 @@ export const products = [
   },
   {
       id: 14,
-      name: "iPhone 15 Plus",
+      name: "iPhone 15 Plus          ",
       price: 17530.50, // 899 USD
       category: "iPhone",
       rating: 4.7,
@@ -281,7 +281,7 @@ export const products = [
   },
   {
       id: 15,
-      name: "MacBook Air 13-inch",
+      name: "MacBook Air 13-inch     ",
       price: 19480.50, // 999 USD
       category: "MacBook",
       rating: 4.8,
@@ -301,7 +301,7 @@ export const products = [
   },
   {
     id: 16,
-    name: "iPad (10th generation)",
+    name: "iPad (10th generation)    ",
     price: 8755.50, // 449 USD
     category: "iPad",
     rating: 4.7,
@@ -321,7 +321,7 @@ export const products = [
 },
 {
     id: 17,
-    name: "AirPods (3rd generation)",
+    name: "AirPods (3rd generation)   ",
     price: 3490.50, // 179 USD
     category: "Accessories",
     rating: 4.7,
@@ -341,7 +341,7 @@ export const products = [
 },
 {
     id: 18,
-    name: "Pro Display XDR",
+    name: "Pro Display XDR           ",
     price: 97480.50, // 4999 USD
     category: "Accessories",
     rating: 4.8,
@@ -361,7 +361,7 @@ export const products = [
 },
 {
     id: 19,
-    name: "iPhone 15 Pro",
+    name: "iPhone 15 Pro             ",
     price: 19480.50, // 999 USD
     category: "iPhone",
     rating: 4.8,
@@ -381,7 +381,7 @@ export const products = [
 },
 {
     id: 20,
-    name: "Apple Watch SE",
+    name: "Apple Watch SE            ",
     price: 4855.50, // 249 USD
     category: "Apple Watch",
     rating: 4.7,
@@ -401,7 +401,7 @@ export const products = [
 },
 {
     id: 21,
-    name: "HomePod (2nd generation)",
+    name: "HomePod (2nd generation)   ",
     price: 5830.50, // 299 USD
     category: "Accessories",
     rating: 4.6,
@@ -421,7 +421,7 @@ export const products = [
 },
 {
     id: 22,
-    name: "MacBook Pro 14-inch",
+    name: "MacBook Pro 14-inch     ",
     price: 38980.50, // 1999 USD
     category: "MacBook",
     rating: 4.8,
@@ -441,7 +441,7 @@ export const products = [
 },
 {
     id: 23,
-    name: "Magic Keyboard",
+    name: "Magic Keyboard            ",
     price: 1930.50, // 99 USD
     category: "Accessories",
     rating: 4.5,
@@ -461,7 +461,7 @@ export const products = [
 },
 {
     id: 24,
-    name: "Studio Display",
+    name: "Studio Display       ",
     price: 31180.50, // 1599 USD
     category: "Accessories",
     rating: 4.7,
